@@ -163,6 +163,7 @@ The ping was successful.
 * `topology.png` — Network topology
 * `successful-ping.png` — Successful PC1-to-PC2 ping
 * `failed-ping.png` — Failed ping during troubleshooting
-* `show-ip-interface-brief.png` — Router interface verification
+* `show-ip-interface-brief01.png` — Router interface verification
+* `show-ip-interface-brief02.png` — Router interface verification
 * `basic-routing.pkt` — Packet Tracer project file
 
